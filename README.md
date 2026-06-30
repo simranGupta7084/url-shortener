@@ -1,5 +1,3 @@
-Now open README.md and replace everything with this:
-
 ```markdown
 # Shortly — URL Shortener ✂️
 
